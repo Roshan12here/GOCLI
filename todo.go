@@ -10,7 +10,7 @@ import (
 	"github.com/aquasecurity/table"
 )
 
-// for test
+// for test completed
 type Todo struct {
 	Title       string
 	Completed   bool
